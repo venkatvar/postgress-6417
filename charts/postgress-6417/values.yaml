@@ -6,7 +6,7 @@
 
 ## Bitnami WordPress image version
 ## ref: https://hub.docker.com/r/bitnami/phpmyadmin/tags/
-##
+###
 image:
   registry: docker.io
   repository: bitnami/phpmyadmin
